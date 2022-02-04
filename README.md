@@ -43,5 +43,14 @@ Bootstrap: framework for developing project on the web
     "vue": "^2.6.14",
     "vue-router": "^3.5.3"
  ```   
-    
-    
+ ### Required Installation steps 
+ ```
+ -  npm install vue bootstrap bootstrap-vue
+ -  npm install bootstrap
+ -  npm install router   
+ -  npm install --save vue-router
+ -  npm install axios
+ -  npm install @vue/cli-plugin-unit-jest @vue/test-utils
+ -  npm install moxios
+ -  npm install vue-template-compiler
+ ```
