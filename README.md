@@ -30,3 +30,18 @@ Jest - framework used for testing
 Moxios - To mock axios in unit tests. (src: "https://www.npmjs.com/package/moxios")
 Bootstrap: framework for developing project on the web
 ```
+### Versions
+```
+"@vue/cli-plugin-unit-jest": "^4.5.15",
+    "@vue/test-utils": "^1.3.0",
+    "axios": "^0.24.0",
+    "bootstrap": "^5.1.3",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.6.5",
+    "moxios": "^0.4.0",
+    "router": "^1.3.6",
+    "vue": "^2.6.14",
+    "vue-router": "^3.5.3"
+ ```   
+    
+    
