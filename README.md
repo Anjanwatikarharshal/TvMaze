@@ -22,9 +22,11 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Project dependencies and devDependencies 
+```
 Vue JS (Vue cli and Vue 2) -- Framework
 Axios - HTTP Client
 Vue Router - routing/navagation between the pages
 Jest - framework used for testing
 Moxios - To mock axios in unit tests. (src: "https://www.npmjs.com/package/moxios")
 Bootstrap: framework for developing project on the web
+```
